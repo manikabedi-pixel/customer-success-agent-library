@@ -1,0 +1,83 @@
+{
+  "deal_id": "DEAL-002",
+  "customer_name": "Northstar Software",
+  "product": "Customer Analytics Platform",
+  "business_objectives": [],
+  "stakeholders": [],
+  "implementation_requirements": [],
+  "expected_go_live_date": null,
+  "implementation_owner": null,
+  "missing_information": [
+    "Customer business objectives are missing",
+    "Customer stakeholders are missing",
+    "Implementation requirements are missing",
+    "Expected go-live date is not confirmed",
+    "Implementation owner is not assigned"
+  ],
+  "requires_human_review": true,
+  "status": "draft",
+  "ai_extraction": {
+    "extracted_facts": [
+      {
+        "category": "business_objective",
+        "value": "Consolidate customer reporting across business units",
+        "status": "customer_requested",
+        "evidence": "The customer wants to consolidate customer reporting across business units.",
+        "requires_verification": true
+      },
+      {
+        "category": "integration",
+        "value": "Salesforce integration requested",
+        "status": "customer_requested",
+        "evidence": "the customer requested Salesforce integration.",
+        "requires_verification": true
+      },
+      {
+        "category": "migration",
+        "value": "Migration of five years of historical data requested",
+        "status": "customer_requested",
+        "evidence": "The customer also asked whether five years of historical data could be migrated.",
+        "requires_verification": true
+      },
+      {
+        "category": "timeline",
+        "value": "Implementation might be possible within six weeks",
+        "status": "discussed_unconfirmed",
+        "evidence": "Sales suggested implementation might be possible within six weeks, but no delivery timeline was agreed.",
+        "requires_verification": true
+      },
+      {
+        "category": "stakeholder",
+        "value": "The VP of Operations, Sarah Mitchell, identified as executive sponsor",
+        "status": "confirmed",
+        "evidence": "The VP of Operations, Sarah Mitchell, was identified as the executive sponsor.",
+        "requires_verification": false
+      },
+      {
+        "category": "stakeholder",
+        "value": "Technical implementation owner not identified yet",
+        "status": "missing",
+        "evidence": "The technical implementation owner has not yet been identified.",
+        "requires_verification": true
+      },
+      {
+        "category": "business_objective",
+        "value": "Requested executive dashboards; dashboard scope undefined",
+        "status": "customer_requested",
+        "evidence": "The customer asked for executive dashboards. The exact dashboard scope remains undefined.",
+        "requires_verification": true
+      }
+    ],
+    "missing_information": [
+      "Technical implementation owner has not been identified",
+      "Defined scope for executive dashboards",
+      "Agreed delivery timeline for implementation"
+    ],
+    "potential_risks": [
+      "No confirmed delivery timeline may impact project planning and resource allocation",
+      "Undefined dashboard scope may lead to misaligned expectations",
+      "Unidentified technical implementation owner may delay technical decision-making and execution"
+    ],
+    "summary": "The customer has requested consolidation of customer reporting, Salesforce integration, migration of five years of historical data, and executive dashboards with an undefined scope. The VP of Operations, Sarah Mitchell, is the executive sponsor. Sales suggested a possible implementation within six weeks, but no timeline was agreed. The technical implementation owner has not been identified yet, and key details such as dashboard scope and delivery timeline remain undefined."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "deal_id": "DEAL-002",
+  "deal_name": "Northstar Software Enterprise Subscription",
+  "deal_stage": "closed_won",
+  "customer": {
+    "company_name": "Northstar Software",
+    "industry": "B2B SaaS",
+    "company_size": 420
+  },
+  "commercial_details": {
+    "product": "Customer Analytics Platform",
+    "subscription_term_months": 12,
+    "contract_value_usd": 72000
+  },
+  "business_objectives": [],
+  "stakeholders": [],
+  "implementation_requirements": [],
+  "expected_go_live_date": null,
+  "implementation_owner": null,
+  "sales_notes": [
+    "The customer wants to consolidate customer reporting across business units.",
+    "During the discovery call, the customer requested Salesforce integration.",
+    "The customer also asked whether five years of historical data could be migrated.",
+    "Sales suggested implementation might be possible within six weeks, but no delivery timeline was agreed.",
+    "The VP of Operations, Sarah Mitchell, was identified as the executive sponsor.",
+    "The technical implementation owner has not yet been identified.",
+    "The customer asked for executive dashboards. The exact dashboard scope remains undefined."
+  ]
+}
