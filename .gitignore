@@ -1,8 +1,29 @@
-.venv/
+# Secrets
 .env
 .env.*
 !.env.example
+*.pem
+*.key
+
+# Python
+.venv/
 __pycache__/
-.pytest_cache/
 *.pyc
+.pytest_cache/
+
+# Generated customer data
+outputs/
+
+
+# macOS
+
+.DS_Store
+
+# Local development documents
+
+Customer Success AI Agent Library Development/
+
+# Local HubSpot private app files
+
+hubspot-private-app/
 
