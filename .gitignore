@@ -27,3 +27,9 @@ Customer Success AI Agent Library Development/
 
 hubspot-private-app/
 
+# Additional virtual environments
+.venv-*/
+
+# VS Code local settings
+.vscode/
+
