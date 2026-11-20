@@ -1,0 +1,35 @@
+{
+  "deal_id": "DEAL-001",
+  "customer_name": "Acme Analytics",
+  "product": "Enterprise Analytics Platform",
+  "business_objectives": [
+    "Consolidate customer reporting across departments",
+    "Reduce manual reporting effort",
+    "Improve executive visibility into customer metrics"
+  ],
+  "stakeholders": [
+    {
+      "name": "Sarah Mitchell",
+      "role": "VP Operations",
+      "responsibility": "Executive Sponsor"
+    },
+    {
+      "name": "David Chen",
+      "role": "IT Director",
+      "responsibility": "Technical Evaluation"
+    }
+  ],
+  "implementation_requirements": [
+    "Integration with Salesforce CRM",
+    "Historical data migration",
+    "Executive dashboard configuration"
+  ],
+  "expected_go_live_date": null,
+  "implementation_owner": null,
+  "missing_information": [
+    "Expected go-live date is not confirmed",
+    "Implementation owner is not assigned"
+  ],
+  "requires_human_review": true,
+  "status": "draft"
+}

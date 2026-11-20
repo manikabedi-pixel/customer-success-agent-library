@@ -1,0 +1,45 @@
+{
+  "deal_id": "DEAL-001",
+  "deal_name": "Acme Analytics Enterprise Subscription",
+  "deal_stage": "closed_won",
+  "customer": {
+    "company_name": "Acme Analytics",
+    "industry": "B2B SaaS",
+    "company_size": 250
+  },
+  "commercial_details": {
+    "product": "Enterprise Analytics Platform",
+    "subscription_term_months": 12,
+    "contract_value_usd": 48000
+  },
+  "business_objectives": [
+    "Consolidate customer reporting across departments",
+    "Reduce manual reporting effort",
+    "Improve executive visibility into customer metrics"
+  ],
+  "stakeholders": [
+    {
+      "name": "Sarah Mitchell",
+      "role": "VP Operations",
+      "responsibility": "Executive Sponsor"
+    },
+    {
+      "name": "David Chen",
+      "role": "IT Director",
+      "responsibility": "Technical Evaluation"
+    }
+  ],
+  "implementation_requirements": [
+    "Integration with Salesforce CRM",
+    "Historical data migration",
+    "Executive dashboard configuration"
+  ],
+  "expected_go_live_date": null,
+  "implementation_owner": null,
+  "sales_notes": [
+    "Customer wants to begin onboarding immediately.",
+    "Salesforce integration was discussed during evaluation.",
+    "Customer requested historical data migration.",
+    "Go-live date has not been confirmed."
+  ]
+}
